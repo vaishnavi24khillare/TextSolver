@@ -1,0 +1,35 @@
+1 ) Project Creation
+```django-admin startproject projectName```
+
+2 ) Create App
+```python manage.py startapp appName```
+
+3 ) Run Django app
+```python manage.py runserver```
+
+4 ) Basic Setup
+--> Project urls.py
+--> App urls.py
+--> App views.py
+--> settings.py
+--> templates folder and settings.py integration
+
+5 ) Fronted Design
+
+6 ) What is Base File and Creation
+-->Template Inheritance
+
+base.html -->> index.html , about.html and so on ... ... .. ... .
+
+7 ) Fronted Form
+
+8 ) Backend Logic understanding
+
+9 ) Get Post req, CSRF Token
+
+10) Sending Data from Backend to Fronted
+
+11) Final Touch
+
+
+Task : To design Same copy of this website, Name it as "Texyyy"
